@@ -1,1 +1,1 @@
-# newGit
+# basic projects
